@@ -1,0 +1,15 @@
+D:\src\Nowy folder (2)\Passenger\Passenger\Passenger.Tests\bin\Debug\netcoreapp3.1\Passenger.Tests.deps.json
+D:\src\Nowy folder (2)\Passenger\Passenger\Passenger.Tests\bin\Debug\netcoreapp3.1\Passenger.Tests.dll
+D:\src\Nowy folder (2)\Passenger\Passenger\Passenger.Tests\bin\Debug\netcoreapp3.1\Passenger.Tests.pdb
+D:\src\Nowy folder (2)\Passenger\Passenger\Passenger.Tests\obj\Debug\netcoreapp3.1\Passenger.Tests.csproj.AssemblyReference.cache
+D:\src\Nowy folder (2)\Passenger\Passenger\Passenger.Tests\obj\Debug\netcoreapp3.1\Passenger.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\Nowy folder (2)\Passenger\Passenger\Passenger.Tests\obj\Debug\netcoreapp3.1\Passenger.Tests.AssemblyInfoInputs.cache
+D:\src\Nowy folder (2)\Passenger\Passenger\Passenger.Tests\obj\Debug\netcoreapp3.1\Passenger.Tests.AssemblyInfo.cs
+D:\src\Nowy folder (2)\Passenger\Passenger\Passenger.Tests\obj\Debug\netcoreapp3.1\Passenger.Tests.csproj.CoreCompileInputs.cache
+D:\src\Nowy folder (2)\Passenger\Passenger\Passenger.Tests\obj\Debug\netcoreapp3.1\Passenger.Tests.dll
+D:\src\Nowy folder (2)\Passenger\Passenger\Passenger.Tests\obj\Debug\netcoreapp3.1\Passenger.Tests.pdb
+D:\src\Nowy folder (2)\Passenger\Passenger\Passenger.Tests\bin\Debug\netcoreapp3.1\Passenger.Core.dll
+D:\src\Nowy folder (2)\Passenger\Passenger\Passenger.Tests\bin\Debug\netcoreapp3.1\Passenger.Infrastructure.dll
+D:\src\Nowy folder (2)\Passenger\Passenger\Passenger.Tests\bin\Debug\netcoreapp3.1\Passenger.Core.pdb
+D:\src\Nowy folder (2)\Passenger\Passenger\Passenger.Tests\bin\Debug\netcoreapp3.1\Passenger.Infrastructure.pdb
+D:\src\Nowy folder (2)\Passenger\Passenger\Passenger.Tests\obj\Debug\netcoreapp3.1\Passenger.Tests.csproj.CopyComplete

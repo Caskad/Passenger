@@ -1,0 +1,10 @@
+D:\src\Nowy folder (2)\Passenger\Passenger\Passenger.Tests.EndToEnd\bin\Debug\netcoreapp3.1\Passenger.Tests.EndToEnd.deps.json
+D:\src\Nowy folder (2)\Passenger\Passenger\Passenger.Tests.EndToEnd\bin\Debug\netcoreapp3.1\Passenger.Tests.EndToEnd.dll
+D:\src\Nowy folder (2)\Passenger\Passenger\Passenger.Tests.EndToEnd\bin\Debug\netcoreapp3.1\Passenger.Tests.EndToEnd.pdb
+D:\src\Nowy folder (2)\Passenger\Passenger\Passenger.Tests.EndToEnd\obj\Debug\netcoreapp3.1\Passenger.Tests.EndToEnd.csproj.AssemblyReference.cache
+D:\src\Nowy folder (2)\Passenger\Passenger\Passenger.Tests.EndToEnd\obj\Debug\netcoreapp3.1\Passenger.Tests.EndToEnd.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\Nowy folder (2)\Passenger\Passenger\Passenger.Tests.EndToEnd\obj\Debug\netcoreapp3.1\Passenger.Tests.EndToEnd.AssemblyInfoInputs.cache
+D:\src\Nowy folder (2)\Passenger\Passenger\Passenger.Tests.EndToEnd\obj\Debug\netcoreapp3.1\Passenger.Tests.EndToEnd.AssemblyInfo.cs
+D:\src\Nowy folder (2)\Passenger\Passenger\Passenger.Tests.EndToEnd\obj\Debug\netcoreapp3.1\Passenger.Tests.EndToEnd.csproj.CoreCompileInputs.cache
+D:\src\Nowy folder (2)\Passenger\Passenger\Passenger.Tests.EndToEnd\obj\Debug\netcoreapp3.1\Passenger.Tests.EndToEnd.dll
+D:\src\Nowy folder (2)\Passenger\Passenger\Passenger.Tests.EndToEnd\obj\Debug\netcoreapp3.1\Passenger.Tests.EndToEnd.pdb

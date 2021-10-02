@@ -1,0 +1,13 @@
+D:\src\Nowy folder (2)\Passenger\Passenger\Passenger.Infrastructure\bin\Debug\netcoreapp3.1\Passenger.Infrastructure.deps.json
+D:\src\Nowy folder (2)\Passenger\Passenger\Passenger.Infrastructure\bin\Debug\netcoreapp3.1\Passenger.Infrastructure.dll
+D:\src\Nowy folder (2)\Passenger\Passenger\Passenger.Infrastructure\bin\Debug\netcoreapp3.1\Passenger.Infrastructure.pdb
+D:\src\Nowy folder (2)\Passenger\Passenger\Passenger.Infrastructure\obj\Debug\netcoreapp3.1\Passenger.Infrastructure.csproj.AssemblyReference.cache
+D:\src\Nowy folder (2)\Passenger\Passenger\Passenger.Infrastructure\obj\Debug\netcoreapp3.1\Passenger.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\Nowy folder (2)\Passenger\Passenger\Passenger.Infrastructure\obj\Debug\netcoreapp3.1\Passenger.Infrastructure.AssemblyInfoInputs.cache
+D:\src\Nowy folder (2)\Passenger\Passenger\Passenger.Infrastructure\obj\Debug\netcoreapp3.1\Passenger.Infrastructure.AssemblyInfo.cs
+D:\src\Nowy folder (2)\Passenger\Passenger\Passenger.Infrastructure\obj\Debug\netcoreapp3.1\Passenger.Infrastructure.csproj.CoreCompileInputs.cache
+D:\src\Nowy folder (2)\Passenger\Passenger\Passenger.Infrastructure\obj\Debug\netcoreapp3.1\Passenger.Infrastructure.dll
+D:\src\Nowy folder (2)\Passenger\Passenger\Passenger.Infrastructure\obj\Debug\netcoreapp3.1\Passenger.Infrastructure.pdb
+D:\src\Nowy folder (2)\Passenger\Passenger\Passenger.Infrastructure\bin\Debug\netcoreapp3.1\Passenger.Core.dll
+D:\src\Nowy folder (2)\Passenger\Passenger\Passenger.Infrastructure\bin\Debug\netcoreapp3.1\Passenger.Core.pdb
+D:\src\Nowy folder (2)\Passenger\Passenger\Passenger.Infrastructure\obj\Debug\netcoreapp3.1\Passenger.Infrastructure.csproj.CopyComplete
